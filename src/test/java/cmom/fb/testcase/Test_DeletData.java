@@ -11,7 +11,8 @@ public class Test_DeletData extends Baseclass{
 	@Test
 	public void TestCustdata_TC001() {
 		
-		driver.
+		driver.get(url);
+		
 		
 		
 		
